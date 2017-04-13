@@ -17,3 +17,12 @@
 |腾讯ISUX|http://isux.tencent.com/|腾讯社交用户体验设计|
 |invisionapp|http://blog.invisionapp.com/|优秀的国外Blog|
 |abduzeedo|http://abduzeedo.com/|Abduzeedo是个体作家分享文章架构、集体设计、摄影和UX|
+
+## 工具插件
+* 1.WhatFont检测出页面用的什么类型的字体，大小，颜色[插件下载地址](https://chrome.google.com/webstore/detail/jabopobgcpjmedljpbcaablpmlmfcogm?utm_source=chrome-app-launcher-info-dialog)
+
+![WhatFont](http://upload-images.jianshu.io/upload_images/2604175-d358fa7df28f9109.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+
+* 2.ColorZilla选择页面的颜色[插件下载地址](https://chrome.google.com/webstore/detail/colorzilla/bhlhnicpbhignbdhedgjhgdocnmhomnp?utm_source=chrome-app-launcher-info-dialog)
+
+![渐变色选择](http://upload-images.jianshu.io/upload_images/2604175-5605b37de8829ee9.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
