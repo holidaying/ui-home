@@ -9,9 +9,14 @@
 |             名称             | 订阅地址          |    介绍          |
 |:----:|:----:|:----:|
 
-|   Html5 Weekly    |    http://html5weekly.com/ Html | 技术类  |
+|   Html5 Weekly    |  http://html5weekly.com/ Html | 技术类  |
+
 | CSS Weekly | http://css-weekly.com/|  |
+
 | Javascript Weekly |  http://javascriptweekly.com/ |   JS相关，同样有html,css 和工具相关|
+
 | Web Design Weekly |http://web-design-weekly.com | 设计、技术、技巧、工具聚合| 
-|UX Weekly|   http://uxwkly.com/ | 用户体验、网页设计推送
+
+| UX Weekly |  http://uxwkly.com/ | 用户体验、网页设计推送|
+
 |Web Tools Weekly|    http://webtoolsweekly.com/ | 
