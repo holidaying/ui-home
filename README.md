@@ -55,7 +55,7 @@
 |Kuler-Adobe|http://www.boxui.com/ui-resource/design-aid/18680.html|官方御用配色插件神器|
 |Corner Editor|http://www.boxui.com/ui-resource/design-aid/20823.html|圆角形状神器|
 
-## 工具插件
+### 工具插件
 * 1.WhatFont检测出页面用的什么类型的字体，大小，颜色（[插件下载地址](https://chrome.google.com/webstore/detail/jabopobgcpjmedljpbcaablpmlmfcogm?utm_source=chrome-app-launcher-info-dialog)）
 
 ![WhatFont](http://upload-images.jianshu.io/upload_images/2604175-d358fa7df28f9109.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
