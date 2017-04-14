@@ -18,6 +18,22 @@
 |invisionapp|http://blog.invisionapp.com/|优秀的国外Blog|
 |abduzeedo|http://abduzeedo.com/|Abduzeedo是个体作家分享文章架构、集体设计、摄影和UX|
 
+### 国外的UI/UE工具
+
+|名称 |订阅地址 | 介绍 | 
+| ----- | ----- | ------ |
+|Notism|https://www.notism.io/tour| Notism 是一个功能很强的UX工具，它能让你轻松与同事分享设计进度，通过视频协作，让团队成员简化设计迭代和可用性测试流程。Notism的视频协作能力让大家觉得它是一个“游戏规则的改变者”。|
+|PowerMockup|http://www.powermockup.com/|PowerMockup是一种特别的原型工具。它提供了很多模版和功能，您只用需要使用PowerPoint就能完成原型设计。|
+|A/B Test Master|http://abtestmaster.com/|A/B Test Master是一个开源（有MIT许可证）用于研究最终用户行为的工具，确定更改最终用户的行为，并衡量转换率的效果。|
+|Solidify|http://www.solidifyapp.com/| Solidify提供了最快的方式进行多屏测试|
+|Gridset|https://gridsetapp.com/| Solidify提供了最快的方式进行多屏测试|
+|Gridset|http://uxwkly.com/|Gridset可用于设计， prototypingor生产。这可以轻松为您在原型中创建网格，并可以配置这些网格。|
+|Maxymiser|https://www.oracle.com/marketingcloud/products/testing-and-optimization/index.html|Maxymiser是一个多变量分析和测试用户满意度的工具|
+|AppCooker|http://www.appcooker.com/|AppCooker使得UI界面设计变得简单，它是您能够通过原生的IOS组件建造iPhone和iPad原型|
+|Firefly|https://www.fireflyapp.com/|Firefly是一个有用的设计管理工具，用户可以在设计过程中上传原型，应用程序的设计，图片，UI想法，甚至整个网页的能力，同样在团队协作上，也非常优秀。|
+|Vonn Mobile Material Design UI Kit|https://visualhierarchy.co/shop/vonn-material-design-mobile-ui-kit/|Vonn移动材质UI工具包，有100套漂亮的UI模版，分成8类，可以快速满足您的项目需要。如果您想快速建立您的APP非它莫属|
+|Ace iOS 8 Mobile UI Kit|http://visualhierarchy.co/shop/ace-ios8-mobile-ui-kit/|Ace IOS的移动UI工具包， 它比以往的任何设计工具更容易使用|
+
 ## 工具插件
 * 1.WhatFont检测出页面用的什么类型的字体，大小，颜色（[插件下载地址](https://chrome.google.com/webstore/detail/jabopobgcpjmedljpbcaablpmlmfcogm?utm_source=chrome-app-launcher-info-dialog)）
 
@@ -26,3 +42,4 @@
 * 2.ColorZilla选择页面的颜色（[插件下载地址](https://chrome.google.com/webstore/detail/colorzilla/bhlhnicpbhignbdhedgjhgdocnmhomnp?utm_source=chrome-app-launcher-info-dialog)）
 
 ![渐变色选择](http://upload-images.jianshu.io/upload_images/2604175-5605b37de8829ee9.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+
