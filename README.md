@@ -91,6 +91,22 @@
 |colors.css|http://clrs.cc|一个包含16种全新标准色CSS样式表|
 |PALETTABLE|http://www.palettable.io|智能匹配的颜色赞哦！|
 
+### UI书籍
+
+|名称 |访问地址 | 
+| ----- | ----- |
+|平面设计|http://www.shejidaren.com/examples/tools/color-scheme|
+|网页设计|http://www.shejidaren.com/examples/tools/color-scheme|
+|交互设计|http://www.shejidaren.com/examples/tools/color-scheme|
+|摄影 & 后期|http://www.shejidaren.com/examples/tools/color-scheme|
+|配色|http://www.shejidaren.com/examples/tools/color-scheme|
+|字体 & 版式设计|http://www.shejidaren.com/examples/tools/color-scheme|
+|产品经理|http://www.shejidaren.com/examples/tools/color-scheme|
+|创意灵感|http://www.shejidaren.com/examples/tools/color-scheme|
+|心理学|http://www.shejidaren.com/examples/tools/color-scheme|
+|运营 & 营销|http://www.shejidaren.com/examples/tools/color-scheme|
+|时间管理|http://www.shejidaren.com/examples/tools/color-scheme|
+
 ### 设计名言
 
 |名言 | 
