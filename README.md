@@ -77,7 +77,7 @@
 |占领市场必先占领消费者的心灵|
 |没上过档的广告，做得再好，都永远无法创造销售|
 ### 工具插件
-* 1.WhatFont检测出页面用的什么类型的字体，大小，颜色（[插件下载地址](https://chrome.google.com/webstore/detail/jabopobgcpjmedljpbcaablpmlmfcogm?utm_source=chrome-app-launcher-info-dialog)）
+* 1.whatFont检测出页面用的什么类型的字体，大小，颜色（[插件下载地址](https://chrome.google.com/webstore/detail/jabopobgcpjmedljpbcaablpmlmfcogm?utm_source=chrome-app-launcher-info-dialog)）
 
 ![WhatFont](http://upload-images.jianshu.io/upload_images/2604175-d358fa7df28f9109.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
 
