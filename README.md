@@ -59,6 +59,21 @@
 |Kuler-Adobe|http://www.boxui.com/ui-resource/design-aid/18680.html|官方御用配色插件神器|
 |Corner Editor|http://www.boxui.com/ui-resource/design-aid/20823.html|圆角形状神器|
 
+### UI动效参考
+
+|名称 |访问地址 | 介绍 | 
+| ----- | ----- | ------ |
+|NavNav|http://navnav.co| 收集优秀Web&APP菜单|
+|UI Movement|https://uimovement.com/|主要展示移动APP的动效界面，更新快|
+|Motions|http://motions.me|有APP和其它好玩的GIF动画作品|
+|Design Patterns|http://codepen.io/patterns|分类展示的动效元素，并且已实现代码编写|
+|mindManager|http://capptivate.co| 展示的优秀的动效作品|
+|Little Big Details|http://littlebigdetails.com|分享APP界面、软件界面、网页\智能手表等界面|
+|UYI|http://useyourinterface.com|收集一系列动效界面，方便你激发动效设计灵感|
+|UI Interactions|https://uiinteractions.com|分享带动效的UI设计作品，更新快|
+|SIX UX|http://sixux.com|分享6秒内的交互设计作品|
+|Flow Patterns|http://userflowpatterns.com| |
+
 ### 设计名言
 
 |名言 | 
