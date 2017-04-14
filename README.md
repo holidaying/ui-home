@@ -11,7 +11,8 @@
 * [UI网址](#ui网址)
 * [国外的UI/UE工具](#国外的uiue工具)
 * [UI设计工具](#ui设计工具)
-* [UI动效参考](##ui动效参考)
+* [UI动效参考](#ui动效参考)
+* [UI配色工具](#ui配色工具)
 * [设计名言](#设计名言)
 * [googel插件](#工具插件)
 * [关于](#关于)
@@ -64,16 +65,31 @@
 
 |名称 |访问地址 | 介绍 | 
 | ----- | ----- | ------ |
-|NavNav|http://navnav.co| 收集优秀Web&APP菜单|
+|NavNav|http://navnav.com| 收集优秀Web&APP菜单|
 |UI Movement|https://uimovement.com/|主要展示移动APP的动效界面，更新快|
 |Motions|http://motions.me|有APP和其它好玩的GIF动画作品|
 |Design Patterns|http://codepen.io/patterns|分类展示的动效元素，并且已实现代码编写|
-|mindManager|http://capptivate.co| 展示的优秀的动效作品|
+|mindManager|http://capptivate.com| 展示的优秀的动效作品|
 |Little Big Details|http://littlebigdetails.com|分享APP界面、软件界面、网页\智能手表等界面|
 |UYI|http://useyourinterface.com|收集一系列动效界面，方便你激发动效设计灵感|
 |UI Interactions|https://uiinteractions.com|分享带动效的UI设计作品，更新快|
 |SIX UX|http://sixux.com|分享6秒内的交互设计作品|
 |Flow Patterns|http://userflowpatterns.com| |
+
+### UI配色工具
+
+|名称 |访问地址 | 介绍 | 
+| ----- | ----- | ------ |
+|Color Scheme|http://www.shejidaren.com/examples/tools/color-scheme| 在线配色中文版|
+|coolors APP|https://coolors.co/browser|在线配色以及查看优秀的配色方案|
+|Color Hunter|http://www.colorhunter.com|上传图像获取配色方案|
+|colourco.de|http://colourco.de|简单易用的在线配色工具|
+|Colllor|http://colllor.com| 轻松创建色调一致的配色板|
+|Colormind|http://colormind.io/|智能生成中性色|
+|UIgradients|http://uigradients.com|生成美丽的渐变颜色|
+|Colorfavs|http://www.colorfavs.com|抓取图像配色，带收藏配色功能（推荐）|
+|colors.css|http://clrs.cc|一个包含16种全新标准色CSS样式表|
+|PALETTABLE|http://www.palettable.io|智能匹配的颜色赞哦！|
 
 ### 设计名言
 
