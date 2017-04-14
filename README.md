@@ -34,6 +34,20 @@
 |Vonn Mobile Material Design UI Kit|https://visualhierarchy.co/shop/vonn-material-design-mobile-ui-kit/|Vonn移动材质UI工具包，有100套漂亮的UI模版，分成8类，可以快速满足您的项目需要。如果您想快速建立您的APP非它莫属|
 |Ace iOS 8 Mobile UI Kit|http://visualhierarchy.co/shop/ace-ios8-mobile-ui-kit/|Ace IOS的移动UI工具包， 它比以往的任何设计工具更容易使用|
 
+### UI设计工具
+
+|名称 |下载地址 | 介绍 | 
+| ----- | ----- | ------ |
+|Photoshop|http://www.boxui.com/ui-resource/bitmap/photoshop-bitmap/18205.html| 设计专用神器|
+|Illustrator|http://www.boxui.com/ui-resource/vector/illustrator/18628.html|Adobe Illustrator CC是目前最优秀的矢量图设计软件之一，是众多设计师必不可少的设计工具神器|
+|Axure7|http://www.boxui.com/ui-resource/produce/18645.html|设计原型工具神器|
+|mindManager|http://www.boxui.com/ui-resource/produce/18661.html| 思维导图神器|
+|Cut And Slice Me|http://www.boxui.com/ui-resource/design-aid/18666.html|切图插件神器|
+|MarkMan|http://www.boxui.com/ui-resource/design-aid/18669.html|标注神器|
+|GuideGuide|http://www.boxui.com/ui-resource/design-aid/18698.html|划参考线神器|
+|Kuler-Adobe|http://www.boxui.com/ui-resource/design-aid/18680.html|官方御用配色插件神器|
+|Corner Editor|http://www.boxui.com/ui-resource/design-aid/20823.html|圆角形状神器|
+
 ## 工具插件
 * 1.WhatFont检测出页面用的什么类型的字体，大小，颜色（[插件下载地址](https://chrome.google.com/webstore/detail/jabopobgcpjmedljpbcaablpmlmfcogm?utm_source=chrome-app-launcher-info-dialog)）
 
