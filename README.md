@@ -11,6 +11,7 @@
 * [UI设计工具](#ui设计工具)
 * [设计名言](#设计名言)
 * [googel插件](#工具插件)
+* [关于](#关于)
 
 ### UI网址
 
@@ -83,4 +84,9 @@
 * 2.ColorZilla选择页面的颜色（[插件下载地址](https://chrome.google.com/webstore/detail/colorzilla/bhlhnicpbhignbdhedgjhgdocnmhomnp?utm_source=chrome-app-launcher-info-dialog)）
 
 ![渐变色选择](http://upload-images.jianshu.io/upload_images/2604175-5605b37de8829ee9.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+
+
+### 关于
+
+欢迎大家前来fork和star，欢迎new issue文章，new wiki日志。
 
